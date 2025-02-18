@@ -1,1 +1,1 @@
-# Detecci-n-C-ncer-de-mama
+# Detección_Cáncer_de_mama
